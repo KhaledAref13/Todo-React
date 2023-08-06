@@ -8,5 +8,5 @@
 
 ## View Demo
 
-[View Demo](https://khaledaref13.github.io/Todo-React/)
+[View Demo](https://tasksminder.netlify.app/)
 
