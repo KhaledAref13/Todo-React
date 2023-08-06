@@ -9,4 +9,3 @@
 ## View Demo
 
 [View Demo](https://tasksminder.netlify.app/)
-
